@@ -10,7 +10,7 @@ body{
 
 
 }
-h1{
+h1, h3{
     
     text-decoration-line: underline;
     color: rgb(255, 0, 157);
